@@ -1,0 +1,23 @@
+header {
+	color: rgb(116, 106, 171);
+}
+
+div.intro {
+	color: rgb(42, 3, 3);
+}
+
+h3.content {
+	color: rgb(203, 31, 192);
+}
+
+ul.link {
+	color: blueviolet;
+}
+
+.text {
+	color: blue;
+}
+
+p.link {
+	color: rgb(225, 18, 18);
+}
