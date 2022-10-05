@@ -1,0 +1,147 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Peralta&display=swap');
+
+@font-face {
+	font-family: "CircularStd";
+	src: url("../fonts/Circular/CircularStd-Book.woff2") format("woff2"), url("../fonts/Circular/CircularStd-Book.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "CircularStd";
+	src: url("../fonts/Circular/CircularStd-Medium.woff2") format("woff2"), url("../fonts/Circular/CircularStd-Medium.woff") format("woff");
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "CircularStd";
+	src: url("../fonts/Circular/CircularStd-Bold.woff2") format("woff2"), url("../fonts/Circular/CircularStd-Bold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "CircularStd";
+	src: url("../fonts/Circular/CircularStd-Black.woff2") format("woff2"), url("../fonts/Circular/CircularStd-Black.woff") format("woff");
+	font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+
+body {
+	font-family: "CircularStd";
+}
+
+
+
+.title {
+	font-family: "Peralta";
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+
+@font-face {
+	font-family: "lato";
+	src: url("../fonts/lato/lato-regular.woff2") format("woff2"), url("../fonts/lato/lato-regular.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "lato";
+	src: url("../fonts/lato/lato-bold.woff2") format("woff2"), url("../fonts/lato/lato-bold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "lato";
+	src: url("../fonts/lato/lato-black.woff2") format("woff2"), url("../fonts/lato/lato-black.woff") format("woff");
+	font-display: swap;
+	font-weight: 900;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/larsseit/Larsseit-Regular.woff") format("woff2"), url("../fonts/larsseit/Larsseit-Regular.woff") format("woff");
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/larsseit/Larsseit-Medium.woff2") format("woff2"), url("../fonts/larsseit/Larsseit-Medium.woff") format("woff");
+	font-display: swap;
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/larsseit/Larsseit-Bold.woff2") format("woff2"), url("../fonts/larsseit/Larsseit-Bold.woff") format("woff");
+	font-display: swap;
+	font-weight: 700;
+	font-style: normal;
+}
+
+body {
+	font-family: "lato";
+}
+
+h1.header {
+	font-family: "Roboto";
+	font-weight: 900;
+	color: red;
+}
+
+h2.content {
+	font-family: "Roboto";
+	font-weight: 900;
+	color: rgb(246, 5, 201);
+}
+
+h2.title {
+	font-family: "Roboto";
+	font-weight: 900;
+	color: rgb(255, 2, 2);
+}
+
+h3.intro {
+	font-family: "Larsseit";
+	font-weight: 700;
+	color: rgb(241, 30, 203);
+}
+
+div.intro {
+	font-family: "lato";
+	font-weight: 400;
+	color: rgb(84, 13, 236);
+}
+
+p.header {
+	font-family: "lato";
+	font-weight: 400;
+	color: midnightblue;
+}
+
+ul.link {
+	font-family: "Roboto";
+	font-weight: 400;
+	color: rgb(9, 243, 200);
+}
+
+.span {
+	color: blue;
+}
+
+.footer {
+	color: chartreuse;
+}
