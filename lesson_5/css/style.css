@@ -1,0 +1,126 @@
+body {
+	font-family: "lato", "sans-serif";
+	background: rgba(232, 236, 108, 0.5);
+	color: rgb(16, 14, 15);
+
+}
+
+
+.header {
+	font-family: "Pacifico", "cursive";
+	font-size: 40px;
+	text-align: center;
+	text-shadow: 2px 2px 5px rgb(11, 29, 234);
+	word-spacing: 20px;
+
+}
+
+h1 {
+	/* background-color: blue; */
+	padding: 20px;
+}
+
+span {
+	text-decoration: underline;
+}
+
+div.text1 {
+	font-family: "lato", sans-serif;
+	font-size: 18px;
+	text-align: center;
+}
+
+p.intro {
+	font-family: "Lobster", "cursive";
+	padding: 20px;
+}
+
+
+h3.title {
+	font-family: "Pacifico", "cursive";
+	color: red;
+	font-size: 30px;
+	text-shadow: 10px 10px 5px rgb(25, 1, 243), -10px -10px 5px rgb(25, 1, 243);
+	padding: 20px;
+}
+
+p.text_one {
+	padding-top: 20px;
+	padding-right: 30px;
+	padding-bottom: 10px;
+	padding-left: 30px;
+}
+
+p.text_two {
+	padding: 10%;
+	text-align: justify;
+}
+
+p.comment {
+	font-family: "Pacifico", "cursive";
+	font-size: 12px;
+	text-transform: uppercase;
+	letter-spacing: 7px;
+	padding: 10px;
+	color: rgba(0, 0, 0, 0.5);
+}
+
+h3 {
+	padding: 20px;
+	font-family: "Pacifico", "cursive";
+	font-size: 25px;
+	color: rgb(26, 48, 211);
+	text-shadow: 2px 2px 5px rgb(244, 46, 7);
+	text-align: center;
+
+}
+
+div.text2 {
+	text-align: center;
+	font-size: 16px;
+	line-height: 1.5;
+	padding-right: 30px;
+	padding-left: 30px;
+
+}
+
+div.text3 {
+	text-align: center;
+
+}
+
+.comment_end {
+	text-transform: uppercase;
+	font-weight: 900;
+	font-size: 12;
+	padding-bottom: 10px;
+}
+
+
+img {
+	width: 800px;
+	padding: 10px;
+	margin: auto;
+}
+
+p.text_end {
+	text-decoration: line-through;
+	text-align: left;
+	text-indent: 20px;
+	font-size: 20px;
+}
+
+.text_spacing {
+	word-spacing: 20px;
+	padding-top: 20px;
+}
+
+p.italic {
+	font-family: "Lato", cursive;
+	font-style: italic;
+}
+
+.link {
+	margin: 20px;
+	color: rgba(0, 0, 0, 0.499);
+}
